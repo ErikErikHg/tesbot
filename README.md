@@ -10,8 +10,8 @@ Dan module harus lengkap biar bisa run otomatis
 ```bash
 > termux-setup-storage [Y]
 > cd /sdcard
-> cd -r Alphabot /$HOME
-> cd Alphabot
+> cd -r tesbot /$HOME
+> cd tesbot
 > bash install.sh 
 > npm start
 > Now scan the QR
